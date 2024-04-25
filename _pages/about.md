@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Dept. of Mechanical Engineering, UC Berkeley</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
