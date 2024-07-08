@@ -2,4 +2,4 @@ Dr. Alexis Kaminski has been an assistant professor in the [department of mechan
 
 Alexis's research focuses on geophysical and environmental fluid mechanics. In particular, she is interested in stratified and buoyancy-driven flows: waves, instabilities, turbulence, and mixing. She approaches these problems using a mixture of numerical simulations, theory, and comparison with observations. 
 
-You can find Alexis's CV [here](https://ucbstratflows.github.io/assets/pdf/Alexis_Kaminski_CV.pdf).
+You can find Alexis's CV [here](https://ucbstratflows.github.io/assets/pdf/akk_cv.pdf).

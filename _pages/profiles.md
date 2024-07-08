@@ -14,41 +14,36 @@ profiles:
     content: about_alexis.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Alexis Kaminski</p>
+      <p>Assistant prof, group PI</p>
   - align: left
     image: prof_pic.jpg
     content: about_sam.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Sam Lewin</p>
+      <p>Postdoc (2023-present)</p>
   - align: right
-    image: prof_pic.jpg
+    image: vincent_pic.jpg
     content: about_vincent.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Vincent Laroche</p>
+      <p>PhD student (2021-present)</p>
   - align: left
-    image: prof_pic.jpg
+    image: shuai_pic.jpg
     content: about_shuai.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Shuai Meng</p>
+      <p>PhD student (2022-present)</p>
   - align: right
     image: prof_pic.jpg
     content: about_leo.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Leo Li</p>
+      <p>PhD student (2023-present)</p>
   - align: left
     content: about_undergrads.md
     more_info: >
