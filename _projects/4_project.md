@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: turbulent plumes
+description: turbulent plumes
 img:
 importance: 3
-category: fun
+category: current
 ---
 
 Every project has a beautiful feature showcase page.
