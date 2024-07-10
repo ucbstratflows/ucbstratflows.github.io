@@ -38,7 +38,7 @@ profiles:
       <p>Shuai Meng</p>
       <p>PhD student (2022-present)</p>
   - align: right
-    image: prof_pic.jpg
+    image: leo_pic.jpg
     content: about_leo.md
     image_circular: false # crops the image to make it circular
     more_info: >
