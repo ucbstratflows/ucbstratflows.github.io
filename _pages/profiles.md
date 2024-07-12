@@ -42,7 +42,7 @@ profiles:
     content: about_leo.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Leo Li</p>
+      <p>Zichuan (Leo) Li</p>
       <p>PhD student (2023-present)</p>
   - align: left
     content: about_undergrads.md
@@ -53,7 +53,4 @@ profiles:
   - align: left
     content: about_alumni.md
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
 ---
