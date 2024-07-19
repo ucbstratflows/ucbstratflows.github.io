@@ -6,7 +6,7 @@ subtitle: <a href='#'>Dept. of Mechanical Engineering, UC Berkeley</a>.
 
 profile:
   align: right
-  image: asymmetric_holmboe_movie_diss_whitebg-2.gif
+  image: asymmetric_holmboe_movie_diss_whitebg-3.gif
   image_circular: false # crops the image to make it circular
 news: true # includes a list of news items
 latest_posts: false
@@ -14,10 +14,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
+Welcome to the stratified flows group at UC Berkeley! 
 
+A lot of flows in the ocean and atmosphere around us are *stratified* or *buoyancy-driven* -- that is, they are strongly affected by differences in density (because of heat and salt, for example). In our group, we study the fluid dynamics of these types of flows: how do they become unstable? what types of waves are present? what makes them become turbulent, and how much mixing and entrainment happens as a result? These questions are important in a lot of real-world processes, for example ocean mixing. In general, we study these problems using a mixture of numerical simulations, theory, and comparison with observational measurements. 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+We are part of the [fluids/ocean research area in the Department of Mechanical Engineering at UC Berkeley](https://me.berkeley.edu/research-areas-and-major-fields/fluids/), and we are part of the broader [Environmental Fluid Mechanics and Hydrology group](https://ucb-efmh.github.io/efmh-site/index) (together with other researchers based mostly in civil & environmental engineering). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

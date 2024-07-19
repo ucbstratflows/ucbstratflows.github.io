@@ -52,5 +52,5 @@ profiles:
       <p>Your City, State 12345</p>
   - align: left
     content: about_alumni.md
-    more_info: >
+    more_info: 
 ---
