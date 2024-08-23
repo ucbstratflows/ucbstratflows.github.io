@@ -45,11 +45,12 @@ profiles:
       <p>Zichuan (Leo) Li</p>
       <p>PhD student (2023-present)</p>
   - align: left
-    content: about_undergrads.md
+    image: anant_pic.jpg
+    content: about_anant.md
+    image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Anant Ayyar</p>
+      <p>Undergrad researcher (2024-present)</p>
   - align: left
     content: about_alumni.md
     more_info: 

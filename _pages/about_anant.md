@@ -1,0 +1,1 @@
+Anant is a 4th-year undergraduate student in Mechanical Engineering at UC Berkeley. He has been assisting the research on simulating gravity currents in stratified flow since Spring 2024. His research interests include hypersonics, computational fluid dynamics, and space vehicle design. In his free time, he likes to bake, hike, and travel.
