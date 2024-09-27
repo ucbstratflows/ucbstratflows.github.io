@@ -17,7 +17,7 @@ profiles:
       <p>Alexis Kaminski</p>
       <p>Assistant prof, group PI</p>
   - align: left
-    image: prof_pic.jpg
+    image: sam_pic.jpg
     content: about_sam.md
     image_circular: false # crops the image to make it circular
     more_info: >
