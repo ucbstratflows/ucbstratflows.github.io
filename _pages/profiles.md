@@ -51,6 +51,13 @@ profiles:
     more_info: >
       <p>Anant Ayyar</p>
       <p>Undergrad researcher (2024-present)</p>
+  - align: right
+    image: 
+    content: about_rian.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Rian Montagh</p>
+      <p>Masters researcher (2025-present)</p>
   - align: left
     content: about_alumni.md
     more_info: 
