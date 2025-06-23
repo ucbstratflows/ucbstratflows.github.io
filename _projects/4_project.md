@@ -4,7 +4,7 @@ title: turbulent plumes
 description: turbulent plumes
 img:
 importance: 3
-category: current
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
